@@ -149,16 +149,15 @@ Laravel • MySQL • Midtrans
 <p align="left">
 
 📧 Email  
-your.email@example.com
+trilensuryaningsih@gmail.com
 
 💼 LinkedIn  
-https://linkedin.com/in/your-linkedin
+https://www.linkedin.com/in/trilen-surya-ningsih-4673b5244/
 
 📷 Instagram  
 https://instagram.com/trlnsryaningsih
 
-🌐 Portfolio  
-https://your-portfolio.com
+
 
 </p>
 
