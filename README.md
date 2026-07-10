@@ -136,12 +136,6 @@ Laravel • MySQL • Midtrans
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=trilensuryaningsih&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
 ---
 
 # 📫 Let's Connect
