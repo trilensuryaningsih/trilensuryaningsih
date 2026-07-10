@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#0f172a" />
+      <stop offset="1" stop-color="#2dd4bf" />
+    </linearGradient>
+    <style>
+      .bg{fill:url(#g)}
+      .name{font:700 40px 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill:#ffffff}
+      .subtitle{font:400 18px 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill:#e6fffa}
+    </style>
+  </defs>
+  <rect class="bg" width="900" height="200" rx="12"/>
+  <g transform="translate(40,40)">
+    <text class="name">Trilen Surya Ningsih</text>
+    <text class="subtitle" y="40">Information Systems • Java & Web Developer (student)</text>
+  </g>
+  <g transform="translate(760,32)">
+    <rect x="0" y="0" width="88" height="88" rx="12" fill="#ffffff22"/>
+    <text x="10" y="52" font-family="Segoe UI, Roboto, Helvetica, Arial" font-size="28" fill="#fff">👋</text>
+  </g>
+</svg>
